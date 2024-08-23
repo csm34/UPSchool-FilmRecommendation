@@ -7,7 +7,7 @@ import datetime
 # Load environment variables
 load_dotenv()
 
-client = OpenAI(api_key='sk-HrNAuffKiau-BkqqBNwn5jYVm7TFOhIo5J6AZoOFR1T3BlbkFJJTw8hv7DQpiYwU0V0JY8pflJYSx10trXye3hpySIsA')
+client = OpenAI()
 
 # Page configuration
 st.set_page_config(page_title="Film Recommendation", layout="wide")
