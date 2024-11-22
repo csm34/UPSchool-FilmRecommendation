@@ -74,10 +74,10 @@ This app uses OpenAI's GPT API to generate recommendations. Ensure your API key 
 
 *Examples of user inputs and the resulting film recommendations.*
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="FimRecommendation/filmExample1.png" alt="Film Recommendation Example 1" width="45%"/>
-  <img src="FimRecommendation/filmExample2.png" alt="Film Recommendation Example 2" width="45%"/>
-</div>
+<img src="FimRecommendation/filmExample1.png" alt="Film Recommendation Example 1" width="600"/>
+
+<img src="FimRecommendation/filmExample2.png" alt="Film Recommendation Example 2" width="600"/>
+
 
 ---
 
