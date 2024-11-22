@@ -1,6 +1,6 @@
 # 🎥 Film Recommendation App
 
-This is a **Film Recommendation Web App** built with **Streamlit** and powered by **OpenAI's GPT API**. The app suggests movies based on user preferences such as favorite genres, films, and year range.
+This is a **Film Recommendation Web App** built with **Streamlit** and powered by OpenAI's GPT API. The app suggests movies based on user preferences such as favorite genres, films, and year range.
 
 ---
 
@@ -72,7 +72,7 @@ This app uses OpenAI's GPT API to generate recommendations. Ensure your API key 
 
 ## Example Output
 
-![Film Recommendation Example 1](FimRecommendation/filmExample1.png)
+<img src="FimRecommendation/filmExample1.png" alt="Film Recommendation Example 1" width="500"/>
 
 ![Film Recommendation Example 2](FimRecommendation/filmExample2.png)
 
